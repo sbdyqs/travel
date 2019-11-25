@@ -1,4 +1,4 @@
-package cn.itcast.travel.web.servlet;
+package cn.itcast.travel.web.servlet.deprecated;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
